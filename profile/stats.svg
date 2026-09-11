@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="900"
+height="300"
+viewBox="0 0 900 300">
+<rect width="100%" height="100%" rx="20"
+fill="#051f20"/>
+
+<text x="50" y="55"
+font-family="Arial"
+font-size="26"
+font-weight="bold"
+fill="#daf1de">
+GITHUB OVERVIEW
+</text>
+
+<text x="50" y="85"
+font-family="Arial"
+font-size="14"
+fill="#8eb69b">
+NATHNAEL ASHENAFI
+</text>
+
+<rect x="40" y="115" width="190" height="130"
+rx="16" fill="#0b2b26"/>
+
+<text x="60" y="150"
+font-family="Arial"
+font-size="14"
+fill="#8eb69b">
+PUBLIC REPOSITORIES
+</text>
+
+<text x="60" y="205"
+font-family="Arial"
+font-size="38"
+font-weight="bold"
+fill="#daf1de">
+9
+</text>
+
+<rect x="250" y="115" width="190" height="130"
+rx="16" fill="#163832"/>
+
+<text x="270" y="150"
+font-family="Arial"
+font-size="14"
+fill="#8eb69b">
+CONTRIBUTIONS
+</text>
+
+<text x="270" y="205"
+font-family="Arial"
+font-size="38"
+font-weight="bold"
+fill="#6ee7b7">
+120
+</text>
+
+<rect x="460" y="115" width="190" height="130"
+rx="16" fill="#0b2b26"/>
+
+<text x="480" y="150"
+font-family="Arial"
+font-size="14"
+fill="#8eb69b">
+STARS
+</text>
+
+<text x="480" y="205"
+font-family="Arial"
+font-size="38"
+font-weight="bold"
+fill="#daf1de">
+0
+</text>
+
+<rect x="670" y="115" width="190" height="130"
+rx="16" fill="#163832"/>
+
+<text x="690" y="150"
+font-family="Arial"
+font-size="14"
+fill="#8eb69b">
+FOLLOWERS
+</text>
+
+<text x="690" y="205"
+font-family="Arial"
+font-size="38"
+font-weight="bold"
+fill="#6ee7b7">
+3
+</text>
+</svg>

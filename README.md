@@ -127,11 +127,29 @@ At the moment, I am:
 
 ## GitHub at a glance
 
+## GitHub at a glance
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nathnaelashenafi&show_icons=true&hide_border=true&bg_color=031c16&title_color=34D399&icon_color=6EE7B7&text_color=d1fae5&ring_color=34D399" alt="Nathnael's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathnaelashenafi&layout=compact&hide_border=true&bg_color=031c16&title_color=34D399&text_color=d1fae5" alt="Nathnael's most used languages" />
-  <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=nathnaelashenafi&hide_border=true&background=031c16&stroke=031c16&ring=10B981&fire=34D399&currStreakLabel=6EE7B7&sideLabels=d1fae5&dates=d1fae5&currStreakNum=ECFDF5&sideNums=ECFDF5" alt="Nathnael's contribution streak" />
+
+<img
+    height="165"
+    src="./profile/stats.svg"
+    alt="Nathnael's GitHub statistics"
+  />
+
+<img
+    height="165"
+    src="./profile/top-langs.svg"
+    alt="Nathnael's most used languages"
+  />
+
+<br /><br />
+
+<img
+    src="https://streak-stats.demolab.com/?user=nathnaelashenafi&hide_border=true&background=031c16&stroke=031c16&ring=10B981&fire=34D399&currStreakLabel=6EE7B7&sideLabels=d1fae5&dates=d1fae5&currStreakNum=ECFDF5&sideNums=ECFDF5"
+    alt="Nathnael's contribution streak"
+  />
+
 </div>
 
 <br />

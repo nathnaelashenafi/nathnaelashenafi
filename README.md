@@ -4,7 +4,10 @@
 
 <br />
 
-### Building digital products with clarity, curiosity, and care.
+<img
+  src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=32&duration=3400&pause=1000&color=6EE7B7&center=true&vCenter=true&width=900&height=60&lines=Building+digital+products+with+clarity%2C+curiosity%2C+and+care.;Frontend+engineer+crafting+accessible%2C+performant+interfaces.;Third-year+Computer+Science+student+in+Addis+Ababa."
+  alt="Building digital products with clarity, curiosity, and care."
+/>
 
 I am a third-year Computer Science student and junior frontend developer based in Addis Ababa, Ethiopia. I build responsive interfaces with React, explore data engineering, and learn by turning ideas into working products.
 
@@ -35,7 +38,7 @@ At the moment, I am:
 - Exploring practical applications of AI and automation
 - Growing through hands-on work as a Software Development Intern at Codveda Technologies
 
-> “I would rather understand why something works than only make it work.”
+> "I would rather understand why something works than only make it work."
 
 <br />
 
@@ -118,7 +121,7 @@ At the moment, I am:
     <td valign="top"><strong>ALX Africa · Virtual Assistant Certificate</strong><br />Google Workspace, organization, online research, and practical productivity workflows.</td>
   </tr>
   <tr>
-    <td width="18%" valign="top"><strong>2023 —</strong></td>
+    <td width="18%" valign="top"><strong>2024 — present</strong></td>
     <td valign="top"><strong>BSc Computer Science · Unity University</strong><br />Building a strong foundation in software development, systems, and data.</td>
   </tr>
 </table>
@@ -127,28 +130,39 @@ At the moment, I am:
 
 ## GitHub at a glance
 
-## GitHub at a glance
-
 <div align="center">
 
-<img
-    height="165"
-    src="./profile/stats.svg"
-    alt="Nathnael's GitHub statistics"
-  />
+<br />
 
-<img
-    height="165"
-    src="./profile/top-langs.svg"
-    alt="Nathnael's most used languages"
-  />
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        height="165"
+        src="./profile/stats.svg"
+        alt="Nathnael's GitHub statistics"
+      />
+    </td>
+    <td align="center" valign="middle">
+      <img
+        height="165"
+        src="./profile/top-langs.svg"
+        alt="Nathnael's most used languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <br />
+      <img
+        src="https://streak-stats.demolab.com/?user=nathnaelashenafi&hide_border=true&background=031c16&stroke=031c16&ring=10B981&fire=34D399&currStreakLabel=6EE7B7&sideLabels=d1fae5&dates=d1fae5&currStreakNum=ECFDF5&sideNums=ECFDF5"
+        alt="Nathnael's contribution streak"
+      />
+    </td>
+  </tr>
+</table>
 
-<br /><br />
-
-<img
-    src="https://streak-stats.demolab.com/?user=nathnaelashenafi&hide_border=true&background=031c16&stroke=031c16&ring=10B981&fire=34D399&currStreakLabel=6EE7B7&sideLabels=d1fae5&dates=d1fae5&currStreakNum=ECFDF5&sideNums=ECFDF5"
-    alt="Nathnael's contribution streak"
-  />
+<br />
 
 </div>
 

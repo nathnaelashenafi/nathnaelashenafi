@@ -56,7 +56,8 @@ At the moment, I am:
 
 ### Learning now
 
-<img src="https://skillicons.dev/icons?i=sql,cpp,python" alt="SQL, C++, and Python" />
+<img src="https://skillicons.dev/icons?i=mysql,cpp,python" alt="MySQL, C++, and Python" />
+
 
 </div>
 

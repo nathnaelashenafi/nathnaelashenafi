@@ -181,7 +181,7 @@ When I am not building, I am usually studying, documenting what I learn, or look
 
 <br /><br />
 
-<sub>Designed with intention · built with curiosity · always learning</sub>
+<sub>Designed with intention · built with curiosity · always learning ahead</sub>
 
 </div>
 
